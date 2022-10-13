@@ -110,6 +110,7 @@ ENV/
 env.bak/
 venv.bak/
 python3.10_oweight
+env_python3.10_oweight
 
 # Spyder project settings
 .spyderproject
