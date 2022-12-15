@@ -59,5 +59,4 @@ for i, row in enumerate(rows_all): # I am using enumerate here so I have 2 count
 deefer = pd.DataFrame(rows)
 print(deefer)
 
-
 # pandas, numpy, BeautifulSoup, 
