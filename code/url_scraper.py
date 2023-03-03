@@ -31,5 +31,5 @@ for link in url_data[1].find_all("a"):
         url_full = url_prefix + url_suffix
     if i >16 and i<28:  #to limit the URL additions to the pertinent Summer Olympics we desire () -- Pinpoint the specific window of time that we want
         url_home.append(url_full)
+print(url_home)
 
-print(url_home) # check our url_home variable!
